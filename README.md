@@ -36,5 +36,4 @@ The ROI is a polygon defined in normalized coordinates (x,y in 0..1) so it scale
 🙌 Librairies
 
 - TorchVision
-
 - OpenCV
