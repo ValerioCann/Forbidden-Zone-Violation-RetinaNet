@@ -25,10 +25,13 @@ The ROI is a polygon defined in normalized coordinates (x,y in 0..1) so it scale
 - Ground contact is approximated by the bottom-center of the vehicle box.
 - Performance depends on your hardware and video resolution.
 - RetinaNet is robust but not perfect; lighting changes or unusual angles can impact detections.
-
 - Detector: RetinaNet ResNet50 FPN from TorchVision.
-
 - Visualization & tracking logic: OpenCV + a minimal greedy data-association (distance-first, IoU fallback).
+
+- ### Output preview
+
+
+https://github.com/user-attachments/assets/e86867d3-6b13-4fb6-9150-17455f2e582f
 
 
 🙌 Librairies
