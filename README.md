@@ -30,7 +30,7 @@ The ROI is a polygon defined in normalized coordinates (x,y in 0..1) so it scale
 
 - ### Output preview
 
-https://raw.githubusercontent.com/ValerioCann/Forbidden-Zone-Violation-RetinaNet/main/assets/forbidden_zone_retinanet_output.mp4
+
 
 
 🙌 Librairies
