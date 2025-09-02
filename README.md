@@ -29,7 +29,7 @@ The ROI is a polygon defined in normalized coordinates (x,y in 0..1) so it scale
 - Visualization & tracking logic: OpenCV + a minimal greedy data-association (distance-first, IoU fallback).
 
 - ### Output preview
-
+https://github.com/ValerioCann/Forbidden-Zone-Violation-RetinaNet/blob/main/forbidden_zone_retinanet_output.mp4
 
 
 
