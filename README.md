@@ -1,4 +1,4 @@
-Forbidden Zone Violation (RetinaNet + OpenCV)
+🚧 Forbidden Zone Violation (RetinaNet + OpenCV)
 
 Monitor a pedestrian area and raise an alert whenever a vehicle enters a forbidden zone.
 This can be used for security protocols on construction or industrial sites, restricted areas in airports and train stations, illegal parking, etc.
